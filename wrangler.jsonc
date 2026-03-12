@@ -1,5 +1,5 @@
 {
-  "name": "withbuddy-be-rm",
+  "name": "withbuddy",
   "compatibility_date": "2026-03-12",
   "assets": {
     "directory": "./backend-roadmap/dist",
